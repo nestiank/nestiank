@@ -39,7 +39,7 @@
 
 ### 외부 교육과정
 
-  * 인공지능 및 기계학습 관련 교육
+  * 인공지능 및 기계학습 관련 교육 [![institution-gwangju-ai-academy][gwangju-image]][gwangju-url]
     * [광주 인공지능 사관학교 온라인 사전 교육과정](https://github.com/nestiank/gwangju-ai-academy-pre-course) ![language-python][language-python] [![platform-colaboratory][platform-colaboratory]][platform-colaboratory-url] ![participants-solo][participants-solo]
 
 <!-- Image definitions: Institutions -->
@@ -47,6 +47,8 @@
 [korea-university-cs-url]: http://cs.korea.ac.kr
 [kaist-image]: https://img.shields.io/badge/Institution-KAIST-blue
 [kaist-cs-url]: https://cs.kaist.ac.kr
+[gwangju-image]: https://img.shields.io/badge/Institution-Gwangju%20Artificial%20Intelligence%20Academy-ff8500
+[gwangju-url]: http://ai.gitct.kr
 
 <!-- Image definitions: Languages and Libraries -->
 [language-c]: https://img.shields.io/badge/Language-C-orange
