@@ -28,16 +28,19 @@
 
 ### 팀 프로젝트
 
-  * [시드 마이어의 문명 클론 코딩 및 확장](https://git.kucatdog.net/true-history-committee/civilization-iii) ![language-c#][language-c#] ![library-unity][library-unity] ![participants-team][participants-team]
+  * 게임 프로젝트
+    * [시드 마이어의 문명 클론 코딩 및 확장](https://git.kucatdog.net/true-history-committee/civilization-iii) ![language-c#][language-c#] ![library-unity][library-unity] ![participants-team][participants-team]
 
 ### 개인 프로젝트
 
-  * [전산동아리 Key.East 홈페이지](https://github.com/nestiank/circle-keyeast-webpage) ![markup-html][markup-html] ![participants-solo][participants-solo]
-  * [당첨자 추첨 페이지 프론트엔드](https://github.com/nestiank/kubl-raffle-event-webpage) ![markup-html][markup-html] ![participants-solo][participants-solo]
+  * 웹 프로젝트
+    * [전산동아리 Key.East 홈페이지](https://github.com/nestiank/circle-keyeast-webpage) ![markup-html][markup-html] ![participants-solo][participants-solo]
+    * [당첨자 추첨 페이지 프론트엔드](https://github.com/nestiank/kubl-raffle-event-webpage) ![markup-html][markup-html] ![participants-solo][participants-solo]
 
 ### 외부 교육과정
 
-  * [광주 인공지능 사관학교 온라인 사전 교육과정](https://github.com/nestiank/gwangju-ai-academy-pre-course) ![language-python][language-python] [![platform-colaboratory][platform-colaboratory]][platform-colaboratory-url] ![participants-solo][participants-solo]
+  * 인공지능 및 기계학습 관련 교육
+    * [광주 인공지능 사관학교 온라인 사전 교육과정](https://github.com/nestiank/gwangju-ai-academy-pre-course) ![language-python][language-python] [![platform-colaboratory][platform-colaboratory]][platform-colaboratory-url] ![participants-solo][participants-solo]
 
 <!-- Image definitions: Institutions -->
 [korea-university-image]: https://img.shields.io/badge/Institution-Korea%20University-red
