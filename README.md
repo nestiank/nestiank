@@ -4,20 +4,31 @@
 
 ### 교과 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 
-  * [콘솔 주사위 던지기 게임](https://github.com/nestiank/console-dice-game) ![language-c][language-c] ![participants-solo][participants-solo]
-  * [콘솔 테트리스 게임](https://github.com/nestiank/console-tetris-game) ![language-c][language-c] ![participants-solo][participants-solo]
-  * [관리 기능이 있는 회원제 채팅 서버](https://github.com/nestiank/python-chat-server) ![language-python][language-python] ![participants-solo][participants-solo]
-  * [거울 자동차 충돌 시뮬레이션](https://github.com/nestiank/opengl-mirror-car-accident) ![language-c][language-c] ![library-opengl][library-opengl] ![participants-solo][participants-solo]
-  * [MIPS 프로세서 디자인](https://github.com/nestiank/mips-cpu-modification) ![language-verilog-hdl][language-verilog-hdl] ![participants-solo][participants-solo]
-  * [리눅스 커널 시스템 콜 추가](https://github.com/nestiank/linux-kernel-add-system-calls) ![language-c][language-c] ![platform-linux][platform-linux] ![participants-solo][participants-solo]
-  * [네트워크 패킷 생성 (TCP / DNS)](https://github.com/nestiank/network-packet-generation) ![language-c][language-c] ![platform-linux][platform-linux] ![participants-solo][participants-solo]
-  * [넷링크 소켓을 이용한 주소 교환 시스템 구현](https://github.com/nestiank/netlink-socket-exchange-server) ![language-c][language-c] ![platform-linux][platform-linux] ![participants-solo][participants-solo]
+  * 콘솔 프로그래밍 프로젝트
+    * [콘솔 주사위 던지기 게임](https://github.com/nestiank/console-dice-game) ![language-c][language-c] ![participants-solo][participants-solo]
+    * [콘솔 테트리스 게임](https://github.com/nestiank/console-tetris-game) ![language-c][language-c] ![participants-solo][participants-solo]
+  * 웹 프로젝트
+    * [관리 기능이 있는 회원제 채팅 서버](https://github.com/nestiank/python-chat-server) ![language-python][language-python] ![participants-solo][participants-solo]
+  * 그래픽 프로젝트
+    * [거울 자동차 충돌 시뮬레이션](https://github.com/nestiank/opengl-mirror-car-accident) ![language-c][language-c] ![library-opengl][library-opengl] ![participants-solo][participants-solo]
+  * 컴퓨터 이해 및 설계 프로젝트
+    * [MIPS 프로세서 디자인](https://github.com/nestiank/mips-cpu-modification) ![language-verilog-hdl][language-verilog-hdl] ![participants-solo][participants-solo]
+    * [리눅스 커널 시스템 콜 추가](https://github.com/nestiank/linux-kernel-add-system-calls) ![language-c][language-c] ![platform-linux][platform-linux] ![participants-solo][participants-solo]
+    * [네트워크 패킷 생성 (TCP / DNS)](https://github.com/nestiank/network-packet-generation) ![language-c][language-c] ![platform-linux][platform-linux] ![participants-solo][participants-solo]
+    * [넷링크 소켓을 이용한 주소 교환 시스템 구현](https://github.com/nestiank/netlink-socket-exchange-server) ![language-c][language-c] ![platform-linux][platform-linux] ![participants-solo][participants-solo]
 
 ### 집중 실습 프로젝트 [![institution-kaist][kaist-image]][kaist-cs-url]
-  * [안드로이드 Serverless 생활 어플리케이션](https://github.com/nestiank/madcamp-android-serverless) ![language-java][language-java] ![platform-android][platform-android] ![participants-duo][participants-duo]
-  * [안드로이드 생활 어플리케이션 (with Server)](https://github.com/nestiank/madcamp-android-server-sync) ![language-java][language-java] ![language-javascript][language-javascript] ![library-nodejs][library-nodejs] ![platform-android][platform-android] ![database-mongodb][database-mongodb]
-  * [유니티 클리커 및 우주 전쟁 게임](https://github.com/nestiank/madcamp-clicker-galaga-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-android][platform-android] ![participants-duo][participants-duo]
-  * [유니티 마블 게임](https://github.com/nestiank/madcamp-marble-board-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc] ![participants-duo][participants-duo]
+
+  * 안드로이드 및 웹 프로젝트
+    * [안드로이드 Serverless 생활 어플리케이션](https://github.com/nestiank/madcamp-android-serverless) ![language-java][language-java] ![platform-android][platform-android] ![participants-duo][participants-duo]
+    * [안드로이드 생활 어플리케이션 (with Server)](https://github.com/nestiank/madcamp-android-server-sync) ![language-java][language-java] ![language-javascript][language-javascript] ![library-nodejs][library-nodejs] ![platform-android][platform-android] ![database-mongodb][database-mongodb]
+  * 게임 프로젝트
+    * [유니티 클리커 및 우주 전쟁 게임](https://github.com/nestiank/madcamp-clicker-galaga-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-android][platform-android] ![participants-duo][participants-duo]
+    * [유니티 마블 게임](https://github.com/nestiank/madcamp-marble-board-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc] ![participants-duo][participants-duo]
+
+### 팀 프로젝트
+
+  * [시드 마이어의 문명 클론 코딩 및 확장](https://git.kucatdog.net/true-history-committee/civilization-iii) ![language-c#][language-c#] ![library-unity][library-unity] ![participants-team][participants-team]
 
 ### 개인 프로젝트
 
@@ -57,3 +68,4 @@
 [markup-html]: https://img.shields.io/badge/Markup-HTML-orange
 [participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
 [participants-duo]: https://img.shields.io/badge/Participants-Duo%20Project-7aa3cc
+[participants-team]: https://img.shields.io/badge/Participants-Team%20Project-7aa3cc
