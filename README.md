@@ -19,7 +19,7 @@
 
 ### 집중 실습 프로젝트
 
-  * 안드로이드 및 웹 프로젝트 [![institution-kaist][kaist-image]][kaist-cs-url]
+  * 안드로이드 및 서버 프로젝트 [![institution-kaist][kaist-image]][kaist-cs-url]
     * [안드로이드 Serverless 생활 어플리케이션](https://github.com/nestiank/madcamp-android-serverless) ![language-java][language-java] ![platform-android][platform-android] ![participants-duo][participants-duo]
     * [안드로이드 생활 어플리케이션 (with Server)](https://github.com/nestiank/madcamp-android-server-sync) ![language-java][language-java] ![language-javascript][language-javascript] ![library-nodejs][library-nodejs] ![platform-android][platform-android] ![database-mongodb][database-mongodb]
   * 게임 프로젝트 [![institution-kaist][kaist-image]][kaist-cs-url]
