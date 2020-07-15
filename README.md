@@ -26,7 +26,7 @@
     * [유니티 클리커 및 우주 전쟁 게임](https://github.com/nestiank/madcamp-clicker-galaga-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-android][platform-android] ![participants-duo][participants-duo]
     * [유니티 마블 게임](https://github.com/nestiank/madcamp-marble-board-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc] ![participants-duo][participants-duo]
 
-### 팀 프로젝트
+### 팀 프로젝트 [![group-catdog][catdog-image]][catdog-url]
 
   * 게임 프로젝트
     * [시드 마이어의 문명 클론 코딩 및 확장](https://git.kucatdog.net/true-history-committee/civilization-iii) ![language-c#][language-c#] ![library-unity][library-unity] ![participants-team][participants-team]
@@ -42,13 +42,15 @@
   * 인공지능 및 기계학습 관련 교육 [![institution-gwangju-ai-academy][gwangju-image]][gwangju-url]
     * [광주 인공지능 사관학교 온라인 사전 교육과정](https://github.com/nestiank/gwangju-ai-academy-pre-course) ![language-python][language-python] [![platform-colaboratory][platform-colaboratory]][platform-colaboratory-url] ![participants-solo][participants-solo]
 
-<!-- Image definitions: Institutions -->
+<!-- Image definitions: Institutions and Groups -->
 [korea-university-image]: https://img.shields.io/badge/Institution-Korea%20University-red
 [korea-university-cs-url]: http://cs.korea.ac.kr
 [kaist-image]: https://img.shields.io/badge/Institution-KAIST-blue
 [kaist-cs-url]: https://cs.kaist.ac.kr
 [gwangju-image]: https://img.shields.io/badge/Institution-Gwangju%20Artificial%20Intelligence%20Academy-ff8500
 [gwangju-url]: http://ai.gitct.kr
+[catdog-image]: https://img.shields.io/badge/Group-CAT&DOG-red
+[catdog-url]: https://catdog.korea.ac.kr
 
 <!-- Image definitions: Languages and Libraries -->
 [language-c]: https://img.shields.io/badge/Language-C-orange
