@@ -1,6 +1,6 @@
 # 저장소 목록
 
-> 아래의 자료들을 과제에 사용해서 발생하는 Academic Integrity 관련 문제는 모두 본인의 책임입니다.
+> 모든 Academic Integrity 관련 문제는 본인의 책임입니다.
 
 ### 교과 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url] ![participants-solo][participants-solo]
 
