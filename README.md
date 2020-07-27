@@ -34,7 +34,8 @@
 ### 개인 프로젝트 ![group-circles][circles-image] ![participants-solo][participants-solo]
 
   * 웹 프로젝트
-    * [전산동아리 Key.East 홈페이지](https://github.com/nestiank/circle-keyeast-webpage) ![markup-html][markup-html]
+    * [고등학교 교내 커뮤니티 운영](https://github.com/nestiank/community-cshians) [![library-xe1][library-xe1]][library-xe1-url]
+    * [전산동아리 Key.East 홈페이지](https://github.com/nestiank/circle-keyeast-webpage) ![markup-html][markup-html] ![language-php][language-php]
     * [당첨자 추첨 페이지 프론트엔드](https://github.com/nestiank/kubl-raffle-event-webpage) ![markup-html][markup-html]
 
 ### 외부 교육과정 [![institution-gwangju-ai-academy][gwangju-image]][gwangju-url] ![participants-solo][participants-solo]
@@ -60,9 +61,12 @@
 [language-javascript]: https://img.shields.io/badge/Language-JavaScript-orange
 [language-c#]: https://img.shields.io/badge/Language-C%23-orange
 [language-verilog-hdl]: https://img.shields.io/badge/Language-Verilog%20HDL-orange
+[language-php]: https://img.shields.io/badge/Language-PHP-orange
 [library-opengl]: https://img.shields.io/badge/Library-OpenGL-green
 [library-nodejs]: https://img.shields.io/badge/Library-Node.js-green
 [library-unity]: https://img.shields.io/badge/Library-Unity-green
+[library-xe1]: https://img.shields.io/badge/Library-XpressEngine%201.8.22-green
+[library-xe1-url]: https://xe1.xpressengine.com
 
 <!-- Image definitions: Platforms and Databases -->
 [platform-android]: https://img.shields.io/badge/Platform-Android-yellowgreen
