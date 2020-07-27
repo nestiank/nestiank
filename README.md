@@ -34,7 +34,7 @@
 ### 개인 프로젝트 ![group-circles][circles-image] ![participants-solo][participants-solo]
 
   * 웹 프로젝트
-    * [고등학교 교내 커뮤니티 운영](https://github.com/nestiank/community-cshians) [![library-xe1][library-xe1]][library-xe1-url]
+    * [고등학교 교내 커뮤니티 운영](https://github.com/nestiank/community-cshians) ![markup-html][markup-html] [![library-xe1][library-xe1]][library-xe1-url]
     * [전산동아리 Key.East 홈페이지](https://github.com/nestiank/circle-keyeast-webpage) ![markup-html][markup-html] ![language-php][language-php]
     * [당첨자 추첨 페이지 프론트엔드](https://github.com/nestiank/kubl-raffle-event-webpage) ![markup-html][markup-html]
 
