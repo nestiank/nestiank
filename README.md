@@ -65,7 +65,7 @@
 [library-opengl]: https://img.shields.io/badge/Library-OpenGL-green
 [library-nodejs]: https://img.shields.io/badge/Library-Node.js-green
 [library-unity]: https://img.shields.io/badge/Library-Unity-green
-[library-xe1]: https://img.shields.io/badge/Library-XpressEngine%201.8.22-green
+[library-xe1]: https://img.shields.io/badge/Library-XpressEngine%201.8-green
 [library-xe1-url]: https://xe1.xpressengine.com
 
 <!-- Image definitions: Platforms and Databases -->
