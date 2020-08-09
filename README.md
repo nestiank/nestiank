@@ -74,7 +74,7 @@
 [platform-linux]: https://img.shields.io/badge/Platform-Linux-yellowgreen
 [platform-colaboratory]: https://img.shields.io/badge/Platform-Colaboratory-yellowgreen
 [platform-colaboratory-url]: https://colab.research.google.com
-[database-mongodb]: https://img.shields.io/badge/Database-mongoDB-ff80a0
+[database-mongodb]: https://img.shields.io/badge/Database-mongoDB-bd23e8
 
 <!-- Image definitions: Ohter Informations -->
 [markup-html]: https://img.shields.io/badge/Markup-HTML-orange
