@@ -29,7 +29,7 @@
 ### 그룹 프로젝트 [![group-catdog][catdog-image]][catdog-url] ![participants-team][participants-team]
 
   * 게임 프로젝트
-    * [시드 마이어의 문명 클론 코딩 및 확장](https://git.kucatdog.net/true-history-committee/civilization-iii) ![language-c#][language-c#] ![library-unity][library-unity]
+    * [시드 마이어의 문명 클론 코딩 및 확장](https://git.kucatdog.net/true-history-committee/civilization-iii) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
 
 ### 개인 프로젝트 ![group-circles][circles-image] ![participants-solo][participants-solo]
 
