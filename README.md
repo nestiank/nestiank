@@ -10,7 +10,7 @@
   * 웹 프로젝트
     * [관리 기능이 있는 회원제 채팅 서버](https://github.com/nestiank/python-chat-server) ![language-python][language-python]
   * 그래픽 프로젝트
-    * [거울 자동차 충돌 시뮬레이션](https://github.com/nestiank/opengl-mirror-car-accident) ![language-c][language-c] ![library-opengl][library-opengl]
+    * [거울 자동차 충돌 시뮬레이션](https://github.com/nestiank/opengl-mirror-car-accident) ![language-cpp][language-cpp] ![library-opengl][library-opengl]
   * 컴퓨터 이해 및 설계 프로젝트
     * [MIPS 프로세서 디자인](https://github.com/nestiank/mips-cpu-modification) ![language-verilog-hdl][language-verilog-hdl]
     * [리눅스 커널 시스템 콜 추가](https://github.com/nestiank/linux-kernel-add-system-calls) ![language-c][language-c] ![platform-linux][platform-linux]
@@ -56,6 +56,7 @@
 
 <!-- Image definitions: Languages and Libraries -->
 [language-c]: https://img.shields.io/badge/Language-C-orange
+[language-cpp]: https://img.shields.io/badge/Language-C%2B%2B-orange
 [language-python]: https://img.shields.io/badge/Language-Python-orange
 [language-java]: https://img.shields.io/badge/Language-Java-orange
 [language-javascript]: https://img.shields.io/badge/Language-JavaScript-orange
