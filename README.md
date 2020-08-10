@@ -80,11 +80,11 @@
 [platform-linux]: https://img.shields.io/badge/Platform-Linux-yellowgreen
 [platform-colaboratory]: https://img.shields.io/badge/Platform-Colaboratory-yellowgreen
 [platform-colaboratory-url]: https://colab.research.google.com
-[database-mongodb]: https://img.shields.io/badge/Database-mongoDB-bd23e8
+[database-mongodb]: https://img.shields.io/badge/Database-mongoDB-00cccc
 
 <!-- Image definitions: Ohter Informations -->
 [markup-html]: https://img.shields.io/badge/Markup-HTML-orange
-[subject-algorithm]: https://img.shields.io/badge/Subject-Algorithm-00cccc
+[subject-algorithm]: https://img.shields.io/badge/Subject-Algorithm-bd23e8
 [participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
 [participants-duo]: https://img.shields.io/badge/Participants-Duo%20Project-7aa3cc
 [participants-team]: https://img.shields.io/badge/Participants-Team%20Project-7aa3cc
