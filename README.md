@@ -38,10 +38,12 @@
     * [전산동아리 Key.East 홈페이지](https://github.com/nestiank/circle-keyeast-webpage) ![markup-html][markup-html] ![language-php][language-php]
     * [당첨자 추첨 페이지 프론트엔드](https://github.com/nestiank/kubl-raffle-event-webpage) ![markup-html][markup-html]
 
+<!--
 ### 개인 집중 연습 ![participants-solo][participants-solo]
 
   * 알고리즘
     * [죽음의 알고리즘 트레이닝 캠프](https://github.com/nestiank/deadly-algorithm-training-camp) ![language-c][language-c] ![subject-algorithm][subject-algorithm]
+-->
 
 ### 외부 교육 이수 [![institution-gwangju-ai-academy][gwangju-image]][gwangju-url] ![participants-solo][participants-solo]
 
