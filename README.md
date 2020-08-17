@@ -21,7 +21,7 @@
 
   * 안드로이드 및 서버 프로젝트
     * [안드로이드 생활 어플리케이션 (Serverless)](https://github.com/nestiank/madcamp-android-serverless) ![language-java][language-java] ![platform-android][platform-android]
-    * [안드로이드 생활 어플리케이션 (With server)](https://github.com/nestiank/madcamp-android-server-sync) ![language-java][language-java] ![language-javascript][language-javascript] ![library-nodejs][library-nodejs] ![platform-android][platform-android] ![database-mongodb][database-mongodb]
+    * [안드로이드 생활 어플리케이션 (With Server)](https://github.com/nestiank/madcamp-android-server-sync) ![language-java][language-java] ![language-javascript][language-javascript] ![library-nodejs][library-nodejs] ![platform-android][platform-android] ![database-mongodb][database-mongodb]
   * 게임 프로젝트
     * [유니티 클리커 및 우주 전쟁 게임](https://github.com/nestiank/madcamp-clicker-galaga-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-android][platform-android]
     * [유니티 마블 게임](https://github.com/nestiank/madcamp-marble-board-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
