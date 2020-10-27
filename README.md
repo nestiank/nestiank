@@ -14,9 +14,7 @@
   * 컴퓨터 이해 및 설계 프로젝트
     * [MIPS 프로세서 디자인](https://github.com/nestiank/mips-cpu-modification) ![language-verilog-hdl][language-verilog-hdl]
     * [리눅스 커널 시스템 콜 추가](https://github.com/nestiank/linux-kernel-add-system-calls) ![language-c][language-c] ![platform-linux][platform-linux]
-    <!--
-    * [리눅스 커널 파일 시스템 프로파일링](https://github.com/nestiank/linux-kernel-file-system-profiling) ![language-c][language-c] ![platform-linux][platform-linux]
-    -->
+    * [리눅스 커널 파일 시스템 프로파일링](https://github.com/nestiank/linux-file-system-profiling) ![language-c][language-c] ![platform-linux][platform-linux]
     * [네트워크 패킷 생성 (TCP / DNS)](https://github.com/nestiank/network-packet-generation) ![language-c][language-c] ![platform-linux][platform-linux]
     * [넷링크 소켓을 이용한 주소 교환 시스템 구현](https://github.com/nestiank/netlink-socket-exchange-server) ![language-c][language-c] ![platform-linux][platform-linux]
 
