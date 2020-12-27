@@ -19,7 +19,7 @@
   * 그래픽 프로젝트
     * [거울 자동차 충돌 시뮬레이션](https://github.com/nestiank/opengl-mirror-car-accident) ![language-cpp][language-cpp] ![library-opengl][library-opengl]
   * 시스템 이해 및 설계 프로젝트
-    * [MIPS 프로세서 디자인](https://github.com/nestiank/mips-cpu-modification) ![language-verilog-hdl][language-verilog-hdl]
+    * [MIPS 프로세서 디자인](https://github.com/nestiank/mips-processor-design) ![language-verilog-hdl][language-verilog-hdl]
     * [리눅스 커널 시스템 콜 추가](https://github.com/nestiank/linux-kernel-system-call-addition) ![language-c][language-c] ![platform-linux][platform-linux]
     <!-- * [리눅스 파일 시스템 프로파일링](https://github.com/nestiank/linux-file-system-profiling) ![language-c][language-c] ![platform-linux][platform-linux]
     * [넷필터를 이용한 리눅스 커널 방화벽 구현](https://github.com/nestiank/linux-kernel-netfilter-firewall) ![language-c][language-c] ![platform-linux][platform-linux] -->
