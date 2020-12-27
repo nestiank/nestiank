@@ -46,12 +46,10 @@
     * [전산동아리 Key.East 홈페이지](https://github.com/nestiank/circle-keyeast-webpage) ![markup-html][markup-html] ![language-php][language-php]
     * [당첨자 추첨 페이지 프론트엔드](https://github.com/nestiank/kubl-raffle-event-webpage) ![markup-html][markup-html]
 
-<!--
-#### 개인 집중 연습 ![participants-solo][participants-solo]
+#### 개인 집중 학습 ![participants-solo][participants-solo]
 
-  * 알고리즘
-    * [죽음의 알고리즘 트레이닝 캠프](https://github.com/nestiank/deadly-algorithm-training-camp) ![language-c][language-c] ![subject-algorithm][subject-algorithm]
--->
+  * 컴퓨터 비전
+    * [죽음의 컴퓨터 비전 캠프](https://github.com/nestiank/deadly-computer-vision-camp) ![language-c][language-c] ![subject-computer-vision][subject-computer-vision]
 
 #### 외부 교육 이수 [![institution-gwangju-ai-academy][gwangju-image]][gwangju-url] ![participants-solo][participants-solo]
 
@@ -94,7 +92,7 @@
 
 <!-- Image definitions: Ohter Informations -->
 [markup-html]: https://img.shields.io/badge/Markup-HTML-orange
-[subject-algorithm]: https://img.shields.io/badge/Subject-Algorithm-ff4a5d
+[subject-computer-vision]: https://img.shields.io/badge/Subject-Computer%20Vision-ff4a5d
 [participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
 [participants-duo]: https://img.shields.io/badge/Participants-Duo%20Project-7aa3cc
 [participants-team]: https://img.shields.io/badge/Participants-Team%20Project-7aa3cc
