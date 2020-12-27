@@ -47,7 +47,7 @@
 ### 개인 집중 학습 ![participants-solo][participants-solo]
 
   * 컴퓨터 비전
-    * [죽음의 컴퓨터 비전 캠프](https://github.com/nestiank/deadly-computer-vision-camp) ![language-c][language-c] ![subject-computer-vision][subject-computer-vision]
+    * [죽음의 컴퓨터 비전 캠프](https://github.com/nestiank/deadly-computer-vision-camp) ![language-python][language-python] ![subject-computer-vision][subject-computer-vision]
 
 ### 외부 교육 이수 [![institution-gwangju-ai-academy][gwangju-image]][gwangju-url] ![participants-solo][participants-solo]
 
