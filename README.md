@@ -90,7 +90,7 @@
 
 <!-- Image definitions: Ohter Informations -->
 [markup-html]: https://img.shields.io/badge/Markup-HTML-orange
-[subject-computer-vision]: https://img.shields.io/badge/Subject-Computer%20Vision-ff4a5d
+[subject-computer-vision]: https://img.shields.io/badge/Subject-Computer%20Vision-purple
 [participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
 [participants-duo]: https://img.shields.io/badge/Participants-Duo%20Project-7aa3cc
 [participants-team]: https://img.shields.io/badge/Participants-Team%20Project-7aa3cc
