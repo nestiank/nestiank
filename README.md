@@ -59,7 +59,7 @@
 [korea-university-cs-url]: http://cs.korea.ac.kr
 [kaist-image]: https://img.shields.io/badge/Institution-KAIST-blue
 [kaist-cs-url]: https://cs.kaist.ac.kr
-[gwangju-image]: https://img.shields.io/badge/Institution-Gwangju%20Artificial%20Intelligence%20Academy-ff8500
+[gwangju-image]: https://img.shields.io/badge/Institution-Gwangju%20AI%20Academy-ff8500
 [gwangju-url]: http://ai.gitct.kr
 [catdog-image]: https://img.shields.io/badge/Group-CAT&DOG-red
 [catdog-url]: https://catdog.korea.ac.kr
