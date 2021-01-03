@@ -37,7 +37,7 @@
   * 게임 프로젝트
     * [시드 마이어의 문명 클론 코딩 및 확장](https://github.com/nestiank/extended-civilization-refactoring) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
 
-### 개인 프로젝트 ![group-circles][circles-image] ![participants-solo][participants-solo]
+### 개인 프로젝트 ![participants-solo][participants-solo]
 
   * 웹 프로젝트
     * [고등학교 교내 커뮤니티 운영](https://github.com/nestiank/community-cshians) ![markup-html][markup-html] [![library-xe1][library-xe1]][library-xe1-url]
@@ -63,7 +63,6 @@
 [gwangju-url]: http://ai.gitct.kr
 [catdog-image]: https://img.shields.io/badge/Group-CAT&DOG-red
 [catdog-url]: https://catdog.korea.ac.kr
-[circles-image]: https://img.shields.io/badge/Group-Extracurricular%20Projects-red
 
 <!-- Image definitions: Languages and Libraries -->
 [language-c]: https://img.shields.io/badge/Language-C-orange
