@@ -50,7 +50,7 @@
 
 ### 외부 교육 이수 [![institution-gwangju-ai-academy][gwangju-image]][gwangju-url] ![participants-solo][participants-solo]
 
-  * 인공지능 및 기계학습
+  * 인공지능 및 기계학습 교육
     * [광주 인공지능 사관학교 온라인 사전 교육과정](https://github.com/nestiank/gwangju-ai-academy-pre-course) ![language-python][language-python] [![platform-colaboratory][platform-colaboratory]][platform-colaboratory-url]
 
 <!-- Image definitions: Institutions and Groups -->
