@@ -9,18 +9,22 @@
 
 > 모든 Academic Integrity 관련 문제는 본인의 책임입니다.
 
-  * 콘솔 프로그래밍 프로젝트
+  * 콘솔 프로젝트
     * [콘솔 주사위 던지기 게임](https://github.com/nestiank/console-dice-game) ![language-c][language-c]
     * [콘솔 테트리스 게임](https://github.com/nestiank/console-tetris-game) ![language-c][language-c]
   * 웹 프로젝트
     * [관리 기능이 있는 회원제 채팅 서버](https://github.com/nestiank/python-chat-server) ![language-python][language-python]
   * 그래픽 프로젝트
     * [거울 자동차 충돌 시뮬레이션](https://github.com/nestiank/opengl-mirror-car-accident) ![language-cpp][language-cpp] ![library-opengl][library-opengl]
-  * 시스템 이해 및 설계 프로젝트
+  * 프로그래밍 언어 프로젝트
+    * [인터프리터와 타입 검증기 디자인](https://github.com/nestiank/ml-interpreter-type-analyser-design) ![language-ocaml]
+  * 마이크로 아키텍처 프로젝트
     * [MIPS 프로세서 디자인](https://github.com/nestiank/mips-processor-design) ![language-verilog-hdl][language-verilog-hdl]
+  * 시스템 프로그래밍 프로젝트
     * [리눅스 커널 시스템 콜 추가](https://github.com/nestiank/linux-kernel-system-call-addition) ![language-c][language-c] ![platform-linux][platform-linux]
     * [리눅스 파일 시스템 프로파일링](https://github.com/nestiank/linux-file-system-profiling) ![language-c][language-c] ![platform-linux][platform-linux]
     * [넷필터를 이용한 리눅스 커널 방화벽 구현](https://github.com/nestiank/linux-kernel-netfilter-firewall) ![language-c][language-c] ![platform-linux][platform-linux]
+  * 네트워크 프로젝트
     * [넷링크 소켓을 이용한 주소 교환 시스템 구현](https://github.com/nestiank/netlink-socket-exchange-server) ![language-c][language-c] ![platform-linux][platform-linux]
 
 ### 집중 실습 프로젝트 [![institution-kaist][kaist-image]][kaist-cs-url] ![participants-duo][participants-duo]
@@ -68,6 +72,7 @@
 [language-c#]: https://img.shields.io/badge/Language-C%23-orange
 [language-verilog-hdl]: https://img.shields.io/badge/Language-Verilog%20HDL-orange
 [language-php]: https://img.shields.io/badge/Language-PHP-orange
+[language-ocaml]: https://img.shields.io/badge/Language-OCaml-orange
 [library-opengl]: https://img.shields.io/badge/Library-OpenGL-green
 [library-nodejs]: https://img.shields.io/badge/Library-Node.js-green
 [library-unity]: https://img.shields.io/badge/Library-Unity-green
