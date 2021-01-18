@@ -5,6 +5,11 @@
   * Enthusiast in computer vision
   * Evangelist of open source software
 
+### 연구 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url] ![participants-solo][participants-solo]
+
+  * 딥러닝 모델 구현 프로젝트
+    * [Video Action Recognition with Pytorch](https://github.com/nestiank/action-recognition-cnn-bd-lstm) ![language-python][language-python]
+
 ### 교과 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url] ![participants-solo][participants-solo]
 
 > 모든 Academic Integrity 관련 문제는 본인의 책임입니다.
