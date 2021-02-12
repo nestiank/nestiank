@@ -1,10 +1,3 @@
-### 간단한 소개
-
-> 상상하고 변증하라
-
-  * Enthusiast in computer vision
-  * Evangelist of open source software
-
 ### 연구 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url] ![participants-solo][participants-solo]
 
   * 딥러닝 모델 구현 프로젝트
