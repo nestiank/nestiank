@@ -1,8 +1,3 @@
-### 연구 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url] ![participants-solo][participants-solo]
-
-  * 딥러닝 모델 구현 프로젝트
-    * [Video Action Recognition with Pytorch](https://github.com/nestiank/action-recognition-cnn-bd-lstm) ![language-python][language-python]
-
 ### 교과 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 
 > 모든 Academic Integrity 관련 문제는 본인의 책임입니다.
@@ -45,6 +40,8 @@
     * [고등학교 교내 커뮤니티 운영](https://github.com/nestiank/community-cshians) ![markup-html][markup-html] [![library-xe1][library-xe1]][library-xe1-url]
     * [전산동아리 Key.East 홈페이지](https://github.com/nestiank/circle-keyeast-webpage) ![markup-html][markup-html] ![language-php][language-php]
     * [당첨자 추첨 페이지 프론트엔드](https://github.com/nestiank/kubl-raffle-event-webpage) ![markup-html][markup-html]
+  * 딥러닝 모델 구현 프로젝트
+    * [Video Action Recognition with Pytorch](https://github.com/nestiank/action-recognition-cnn-bd-lstm) ![language-python][language-python]
 
 <!-- Image definitions: Institutions and Groups -->
 [korea-university-image]: https://img.shields.io/badge/Institution-Korea%20University-red
