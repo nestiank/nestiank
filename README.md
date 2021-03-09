@@ -20,7 +20,7 @@
   * 네트워크 프로그래밍 프로젝트
     * [넷링크 소켓을 이용한 주소 교환 시스템 구현](https://github.com/nestiank/netlink-socket-exchange-server) ![language-c][language-c] ![platform-linux][platform-linux]
 
-### 집중 실습 프로젝트 [![institution-kaist][kaist-image]][kaist-cs-url] ![participants-duo][participants-duo]
+### 집중 실습 프로젝트 [![institution-kaist][kaist-image]][kaist-cs-url]
 
   * 안드로이드 및 서버 프로그래밍 프로젝트
     * [안드로이드 생활 어플리케이션 (Serverless)](https://github.com/nestiank/madcamp-android-serverless) ![language-java][language-java] ![platform-android][platform-android]
@@ -29,12 +29,12 @@
     * [유니티 클리커 및 우주 전쟁 게임](https://github.com/nestiank/madcamp-clicker-galaga-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-android][platform-android]
     * [유니티 마블 게임](https://github.com/nestiank/madcamp-marble-board-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
 
-### 그룹 프로젝트 [![group-catdog][catdog-image]][catdog-url] ![participants-team][participants-team]
+### 그룹 프로젝트 [![group-catdog][catdog-image]][catdog-url]
 
   * 게임 프로그래밍 프로젝트
     * [시드 마이어의 문명 클론 코딩 및 확장](https://github.com/nestiank/extended-civilization-refactoring) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
 
-### 개인 프로젝트 ![participants-solo][participants-solo]
+### 개인 프로젝트
 
   * 프론트엔드 프로젝트
     * [고등학교 교내 커뮤니티 운영](https://github.com/nestiank/community-cshians) ![markup-html][markup-html] [![library-xe1][library-xe1]][library-xe1-url]
@@ -52,6 +52,7 @@
 [catdog-url]: https://catdog.korea.ac.kr
 
 <!-- Image definitions: Languages and Libraries -->
+[markup-html]: https://img.shields.io/badge/Markup-HTML-orange
 [language-c]: https://img.shields.io/badge/Language-C-orange
 [language-cpp]: https://img.shields.io/badge/Language-C%2B%2B-orange
 [language-python]: https://img.shields.io/badge/Language-Python-orange
@@ -72,9 +73,3 @@
 [platform-pc]: https://img.shields.io/badge/Platform-PC-yellowgreen
 [platform-linux]: https://img.shields.io/badge/Platform-Linux-yellowgreen
 [database-mongodb]: https://img.shields.io/badge/Database-mongoDB-00cccc
-
-<!-- Image definitions: Ohter Informations -->
-[markup-html]: https://img.shields.io/badge/Markup-HTML-orange
-[participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
-[participants-duo]: https://img.shields.io/badge/Participants-Duo%20Project-7aa3cc
-[participants-team]: https://img.shields.io/badge/Participants-Team%20Project-7aa3cc
