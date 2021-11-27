@@ -1,4 +1,36 @@
-### 교과 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
+### 자기소개
+
+  * __김주영 (Juyoung Kim)__
+  * 웹 프론트엔드를 공부하고 있습니다.
+    * Framework: __React, Redux__
+    * Type System: __TypeScript__
+  * 컴퓨터 비전 분야를 공부했고, 관심이 있습니다.
+  * [__보다 상세한 CV__](static/2022_표준이력서_김주영.pdf)
+
+#### 활동
+
+  * 2021.01-2021.03 __고려대학교 컴퓨터 비전 연구실__
+    * Transformer를 이용한 Flow Field 예측 모델 연구 참여
+  * 2020.10-2021.01 __고려대학교 지능시스템 연구실__
+    * BD-LSTM 기반 Video Action Recognition 논문 구현
+  * 2019.06-2019.07 __KAIST 몰입캠프__
+    * 안드로이드 앱 및 모바일/PC 게임 24/7 개발
+  * 2019.03-2019.08 __고려대학교 블록체인학회 KUBL__
+  * 2018.02-2018.07 | 2019.08- __고려대학교 게임개발 동아리 CAT&DOG__
+  * 2017.03-2018.02 __고려대학교 웹개발 동아리 KWEB__
+  * 2017.03-2018.10 __고려대학교 알고리즘 동아리 ALPS__
+
+#### 경험
+
+  * 언어: __C, Python, Unity/C#,__ Android/Java
+  * 딥러닝: __Pytorch__
+  * OS: __Linux, Windows__
+  * 웹: __HTML, CSS, JavaScript,__ node.js
+  * 도구: __Git, VS Code, Slack, Notion,__ VS
+
+### 프로젝트 레포지토리
+
+#### 교과 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 
 > 모든 Academic Integrity 관련 문제는 본인의 책임입니다.
 
@@ -20,7 +52,7 @@
   * 네트워크 프로그래밍 프로젝트
     * [넷링크 소켓을 이용한 주소 교환 시스템 구현](https://github.com/nestiank/netlink-socket-exchange-server) ![language-c][language-c] ![platform-linux][platform-linux]
 
-### 집중 실습 프로젝트 [![institution-kaist][kaist-image]][kaist-cs-url]
+#### 집중 실습 프로젝트 [![institution-kaist][kaist-image]][kaist-cs-url]
 
   * 안드로이드 및 서버 프로그래밍 프로젝트
     * [안드로이드 생활 어플리케이션 (Serverless)](https://github.com/nestiank/madcamp-android-serverless) ![language-java][language-java] ![platform-android][platform-android]
@@ -29,12 +61,12 @@
     * [유니티 클리커 및 우주 전쟁 게임](https://github.com/nestiank/madcamp-clicker-galaga-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-android][platform-android]
     * [유니티 마블 게임](https://github.com/nestiank/madcamp-marble-board-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
 
-### 그룹 프로젝트 [![group-catdog][catdog-image]][catdog-url]
+#### 그룹 프로젝트 [![group-catdog][catdog-image]][catdog-url]
 
   * 게임 프로그래밍 프로젝트
     * [시드 마이어의 문명 클론 코딩 및 확장](https://github.com/nestiank/extended-civilization-refactoring) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
 
-### 개인 프로젝트
+#### 개인 프로젝트
 
   * 프론트엔드 프로젝트
     * [고등학교 교내 커뮤니티 운영](https://github.com/nestiank/community-cshians) ![markup-html][markup-html] [![library-xe1][library-xe1]][library-xe1-url]
