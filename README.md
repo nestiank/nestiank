@@ -26,6 +26,7 @@
   * 딥러닝: __Pytorch__
   * OS: __Linux, Windows__
   * 웹: __HTML, CSS, JavaScript,__ node.js
+  * DB: mongoDB, postgreSQL
   * 도구: __Git, VS Code, Slack, Notion,__ VS
 
 ### 프로젝트 레포지토리
