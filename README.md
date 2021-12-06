@@ -1,10 +1,11 @@
 ### 자기소개
 
   * __김주영 (Juyoung Kim)__
-  * 웹 프론트엔드를 공부하고 있습니다.
+  * 프론트엔드 개발을 공부하고 있습니다.
     * Framework: __React, Redux__
     * Type System: __TypeScript__
-  * 컴퓨터 비전 분야를 공부했고, 관심이 있습니다.
+  * 영상 컴퓨터 비전을 공부하고 있습니다.
+    * Framework: __PyTorch__
   * [__보다 상세한 CV__](static/2022_표준이력서_김주영.pdf)
 
 #### 활동
