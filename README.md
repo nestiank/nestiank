@@ -4,7 +4,7 @@
   * 프론트엔드 개발을 공부하고 있습니다.
     * Framework: __React, Redux__
     * Type System: __TypeScript__
-  * 영상 컴퓨터 비전을 공부하고 있습니다.
+  * 컴퓨터 비전을 공부하고 있습니다.
     * Framework: __PyTorch__
   * [__보다 상세한 CV__](static/2022_표준이력서_김주영.pdf)
 
