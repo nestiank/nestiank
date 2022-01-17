@@ -1,15 +1,16 @@
 ### 자기소개
 
   * __김주영 (Juyoung Kim)__
+  * 컴퓨터 비전을 공부하고 있습니다.
+    * Framework: __PyTorch__
   * 프론트엔드 개발을 공부하고 있습니다.
     * Framework: __React, Redux__
     * Type System: __TypeScript__
-  * 컴퓨터 비전을 공부하고 있습니다.
-    * Framework: __PyTorch__
   * [__보다 상세한 CV__](static/2022_표준이력서_김주영.pdf)
 
 #### 활동
 
+  * 2022.01- __부스트캠프 AI Tech__
   * 2021.01-2021.03 __고려대학교 컴퓨터 비전 연구실__
     * Transformer를 이용한 Flow Field 예측 모델 연구 참여
   * 2020.10-2021.01 __고려대학교 지능시스템 연구실__
