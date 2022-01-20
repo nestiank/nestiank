@@ -64,6 +64,11 @@
     * [유니티 클리커 및 우주 전쟁 게임](https://github.com/nestiank/madcamp-clicker-galaga-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-android][platform-android]
     * [유니티 마블 게임](https://github.com/nestiank/madcamp-marble-board-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
 
+#### 컴퓨터 비전 프로젝트
+
+  * [부스트캠프 AI Tech 노트 및 일지](https://github.com/nestiank/boostcamp) [![institution-boostcamp][boostcamp-image]][boostcamp-url]
+  * [컴퓨터 비전](https://github.com/nestiank/cv-paper-study)
+
 #### 그룹 프로젝트 [![group-catdog][catdog-image]][catdog-url]
 
   * 게임 프로그래밍 프로젝트
@@ -83,6 +88,8 @@
 [korea-university-cs-url]: http://cs.korea.ac.kr
 [kaist-image]: https://img.shields.io/badge/Institution-KAIST-blue
 [kaist-cs-url]: https://cs.kaist.ac.kr
+[boostcamp-image]: https://img.shields.io/badge/Institution-boostcamp-blue
+[boostcamp-url]: https://boostcamp.connect.or.kr
 [catdog-image]: https://img.shields.io/badge/Group-CAT&DOG-red
 [catdog-url]: https://catdog.korea.ac.kr
 
