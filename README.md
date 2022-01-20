@@ -67,7 +67,7 @@
 #### 컴퓨터 비전 프로젝트
 
   * [부스트캠프 AI Tech 노트 및 일지](https://github.com/nestiank/boostcamp) [![institution-boostcamp][boostcamp-image]][boostcamp-url]
-  * [컴퓨터 비전](https://github.com/nestiank/cv-paper-study)
+  * [컴퓨터 비전 논문 학습 기록](https://github.com/nestiank/cv-paper-study)
 
 #### 그룹 프로젝트 [![group-catdog][catdog-image]][catdog-url]
 
