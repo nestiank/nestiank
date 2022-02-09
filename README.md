@@ -4,7 +4,7 @@
   * **컴퓨터 비전**을 공부하고 있습니다.
     * Framework: **PyTorch**
   * 프론트엔드 개발을 공부하고 있습니다.
-    * Framework: **React**
+    * Framework: **React.js**
   * [**보다 상세한 CV**](static/2022_표준이력서_김주영.pdf)
 
 #### 활동
@@ -77,6 +77,8 @@
 
 #### 개인 프로젝트
 
+  * 리액트 연습 프로젝트
+    * [설문 커뮤니티](https://github.com/nestiank/survey) ![framework-reactjs][framework-reactjs]
   * 프론트엔드 프로젝트
     * [고등학교 교내 커뮤니티 운영](https://github.com/nestiank/community-cshians) ![markup-html][markup-html] [![library-xe1][library-xe1]][library-xe1-url]
     * [전산동아리 Key.East 홈페이지](https://github.com/nestiank/circle-keyeast-webpage) ![markup-html][markup-html] ![language-php][language-php]
@@ -104,6 +106,7 @@
 [language-verilog-hdl]: https://img.shields.io/badge/Language-Verilog%20HDL-orange
 [language-php]: https://img.shields.io/badge/Language-PHP-orange
 [language-ocaml]: https://img.shields.io/badge/Language-OCaml-orange
+[framework-reactjs]: https://img.shields.io/badge/Framework-React.js-008888
 [library-opengl]: https://img.shields.io/badge/Library-OpenGL-green
 [library-nodejs]: https://img.shields.io/badge/Library-Node.js-green
 [library-unity]: https://img.shields.io/badge/Library-Unity-green
