@@ -1,35 +1,35 @@
 ### 자기소개
 
-  * __김주영 (Juyoung Kim)__
-  * 컴퓨터 비전을 공부하고 있습니다.
-    * Framework: __PyTorch__
+  * **김주영 (Juyoung Kim)**
+  * **컴퓨터 비전**을 공부하고 있습니다.
+    * Framework: **PyTorch**
   * 프론트엔드 개발을 공부하고 있습니다.
-    * Framework: __React, Redux__
-    * Type System: __TypeScript__
-  * [__보다 상세한 CV__](static/2022_표준이력서_김주영.pdf)
+    * Framework: **React**
+  * [**보다 상세한 CV**](static/2022_표준이력서_김주영.pdf)
 
 #### 활동
 
-  * 2022.01- __부스트캠프 AI Tech__
-  * 2021.01-2021.03 __고려대학교 컴퓨터 비전 연구실__
+  * 2022.01-현재 **부스트캠프 AI Tech**
+    * 컴퓨터 비전 트랙
+  * 2021.01-2021.03 **고려대학교 컴퓨터 비전 연구실**
     * Transformer를 이용한 Flow Field 예측 모델 연구 참여
-  * 2020.10-2021.01 __고려대학교 지능시스템 연구실__
+  * 2020.10-2021.01 **고려대학교 지능시스템 연구실**
     * BD-LSTM 기반 Video Action Recognition 논문 구현
-  * 2019.06-2019.07 __KAIST 몰입캠프__
+  * 2019.06-2019.07 **KAIST 몰입캠프**
     * 안드로이드 앱 및 모바일/PC 게임 24/7 개발
-  * 2019.03-2019.08 __고려대학교 블록체인학회 KUBL__
-  * 2018.02-2018.07 | 2019.08- __고려대학교 게임개발 동아리 CAT&DOG__
-  * 2017.03-2018.02 __고려대학교 웹개발 동아리 KWEB__
-  * 2017.03-2018.10 __고려대학교 알고리즘 동아리 ALPS__
+  * 2019.03-2019.08 **고려대학교 블록체인학회 KUBL**
+  * 2018.02-2018.07 | 2019.08-현재 **고려대학교 게임개발 동아리 CAT&DOG**
+  * 2017.03-2018.02 **고려대학교 웹개발 동아리 KWEB**
+  * 2017.03-2018.10 **고려대학교 알고리즘 동아리 ALPS**
 
 #### 경험
 
-  * 언어: __C, Python, Unity/C#,__ Android/Java
-  * 딥러닝: __Pytorch__
-  * OS: __Linux, Windows__
-  * 웹: __HTML, CSS, JavaScript,__ node.js
+  * 언어: **Python, C++, Unity/C#,** Android/Java
+  * 딥러닝: **PyTorch**
+  * OS: **Linux, Windows**
+  * 웹: **HTML, CSS, JavaScript, React.js,** node.js
   * DB: mongoDB, postgreSQL
-  * 도구: __Git, VS Code, Slack, Notion,__ VS
+  * 도구: **Git, VS Code, Slack, Notion,** VS
 
 ### 프로젝트 레포지토리
 
@@ -67,11 +67,12 @@
 #### 컴퓨터 비전 프로젝트
 
   * [부스트캠프 AI Tech 노트 및 일지](https://github.com/nestiank/boostcamp) [![institution-boostcamp][boostcamp-image]][boostcamp-url]
-  * [컴퓨터 비전 논문 학습 기록](https://github.com/nestiank/cv-paper-study)
+  * [컴퓨터 비전 논문 학습 기록](https://github.com/nestiank/cv-paper-study) ![project-urp][project-urp]
+  * [Video Action Recognition with PyTorch](https://github.com/nestiank/action-recognition-cnn-bd-lstm) ![project-urp][project-urp] ![language-python][language-python]
 
-#### 그룹 프로젝트 [![group-catdog][catdog-image]][catdog-url]
+#### 그룹 프로젝트
 
-  * 게임 프로그래밍 프로젝트
+  * 게임 프로그래밍 프로젝트 [![group-catdog][catdog-image]][catdog-url]
     * [시드 마이어의 문명 클론 코딩 및 확장](https://github.com/nestiank/extended-civilization-refactoring) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
 
 #### 개인 프로젝트
@@ -80,8 +81,6 @@
     * [고등학교 교내 커뮤니티 운영](https://github.com/nestiank/community-cshians) ![markup-html][markup-html] [![library-xe1][library-xe1]][library-xe1-url]
     * [전산동아리 Key.East 홈페이지](https://github.com/nestiank/circle-keyeast-webpage) ![markup-html][markup-html] ![language-php][language-php]
     * [당첨자 추첨 페이지 프론트엔드](https://github.com/nestiank/kubl-raffle-event-webpage) ![markup-html][markup-html]
-  * 딥러닝 모델 구현 프로젝트
-    * [Video Action Recognition with Pytorch](https://github.com/nestiank/action-recognition-cnn-bd-lstm) ![language-python][language-python]
 
 <!-- Image definitions: Institutions and Groups -->
 [korea-university-image]: https://img.shields.io/badge/Institution-Korea%20University-red
@@ -92,6 +91,7 @@
 [boostcamp-url]: https://boostcamp.connect.or.kr
 [catdog-image]: https://img.shields.io/badge/Group-CAT&DOG-red
 [catdog-url]: https://catdog.korea.ac.kr
+[project-urp]: https://img.shields.io/badge/Project-URP-00355f
 
 <!-- Image definitions: Languages and Libraries -->
 [markup-html]: https://img.shields.io/badge/Markup-HTML-orange
