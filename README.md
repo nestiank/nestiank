@@ -55,34 +55,35 @@
   * 네트워크 프로그래밍 프로젝트
     * [넷링크 소켓을 이용한 주소 교환 시스템 구현](https://github.com/nestiank/netlink-socket-exchange-server) ![language-c][language-c] ![platform-linux][platform-linux]
 
-#### 집중 실습 프로젝트 [![institution-kaist][kaist-image]][kaist-cs-url]
-
-  * 안드로이드 및 서버 프로그래밍 프로젝트
-    * [안드로이드 생활 어플리케이션 (Serverless)](https://github.com/nestiank/madcamp-android-serverless) ![language-java][language-java] ![platform-android][platform-android]
-    * [안드로이드 생활 어플리케이션 (With Server)](https://github.com/nestiank/madcamp-android-server-sync) ![language-java][language-java] ![language-javascript][language-javascript] ![library-nodejs][library-nodejs] ![platform-android][platform-android] ![database-mongodb][database-mongodb]
-  * 게임 프로그래밍 프로젝트
-    * [유니티 클리커 및 우주 전쟁 게임](https://github.com/nestiank/madcamp-clicker-galaga-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-android][platform-android]
-    * [유니티 마블 게임](https://github.com/nestiank/madcamp-marble-board-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
-
 #### 컴퓨터 비전 프로젝트
 
   * [부스트캠프 AI Tech 노트 및 일지](https://github.com/nestiank/boostcamp) [![institution-boostcamp][boostcamp-image]][boostcamp-url]
   * [컴퓨터 비전 논문 학습 기록](https://github.com/nestiank/cv-paper-study) ![project-urp][project-urp]
   * [Video Action Recognition with PyTorch](https://github.com/nestiank/action-recognition-cnn-bd-lstm) ![project-urp][project-urp] ![language-python][language-python]
 
-#### 그룹 프로젝트
+#### 안드로이드 & 서버 프로그래밍 프로젝트 [![institution-kaist][kaist-image]][kaist-cs-url]
 
-  * 게임 프로그래밍 프로젝트 [![group-catdog][catdog-image]][catdog-url]
+  * [안드로이드 생활 어플리케이션 (Serverless)](https://github.com/nestiank/madcamp-android-serverless) ![language-java][language-java] ![platform-android][platform-android]
+  * [안드로이드 생활 어플리케이션 (With Server)](https://github.com/nestiank/madcamp-android-server-sync) ![language-java][language-java] ![language-javascript][language-javascript] ![library-nodejs][library-nodejs] ![platform-android][platform-android] ![database-mongodb][database-mongodb]
+
+
+#### 게임 프로그래밍 프로젝트
+
+  * 장기 그룹 프로젝트 [![group-catdog][catdog-image]][catdog-url]
     * [시드 마이어의 문명 클론 코딩 및 확장](https://github.com/nestiank/extended-civilization-refactoring) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
+  * 단기 집중 개발 프로젝트 [![institution-kaist][kaist-image]][kaist-cs-url]
+    * [유니티 클리커 및 우주 전쟁 게임](https://github.com/nestiank/madcamp-clicker-galaga-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-android][platform-android]
+    * [유니티 마블 게임](https://github.com/nestiank/madcamp-marble-board-game) ![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
 
-#### 개인 프로젝트
+#### 리액트 연습 프로젝트 ![framework-reactjs][framework-reactjs]
 
-  * 리액트 연습 프로젝트
-    * [설문 커뮤니티](https://github.com/nestiank/survey) ![framework-reactjs][framework-reactjs]
-  * 프론트엔드 프로젝트
-    * [고등학교 교내 커뮤니티 운영](https://github.com/nestiank/community-cshians) ![markup-html][markup-html] [![library-xe1][library-xe1]][library-xe1-url]
-    * [전산동아리 Key.East 홈페이지](https://github.com/nestiank/circle-keyeast-webpage) ![markup-html][markup-html] ![language-php][language-php]
-    * [당첨자 추첨 페이지 프론트엔드](https://github.com/nestiank/kubl-raffle-event-webpage) ![markup-html][markup-html]
+  * [설문 커뮤니티](https://github.com/nestiank/survey)
+
+#### 웹페이지 제작 프로젝트
+
+  * [고등학교 교내 커뮤니티 운영](https://github.com/nestiank/community-cshians) ![markup-html][markup-html] [![library-xe1][library-xe1]][library-xe1-url]
+  * [전산동아리 Key.East 홈페이지](https://github.com/nestiank/circle-keyeast-webpage) ![markup-html][markup-html] ![language-php][language-php]
+  * [당첨자 추첨 페이지 프론트엔드](https://github.com/nestiank/kubl-raffle-event-webpage) ![markup-html][markup-html]
 
 <!-- Image definitions: Institutions and Groups -->
 [korea-university-image]: https://img.shields.io/badge/Institution-Korea%20University-red
