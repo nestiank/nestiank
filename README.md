@@ -41,7 +41,7 @@
     * [콘솔 주사위 던지기 게임](https://github.com/nestiank/console-dice-game) ![language-c][language-c]
     * [콘솔 테트리스 게임](https://github.com/nestiank/console-tetris-game) ![language-c][language-c]
   * 서버 프로그래밍 프로젝트
-    * [관리 기능이 있는 회원제 채팅 서버](https://github.com/nestiank/python-chat-server) ![language-python][language-python]
+    * [관리 기능이 있는 회원제 채팅 서버](https://github.com/nestiank/python-tornado-chat-server) ![language-python][language-python]
   * 그래픽 프로그래밍 프로젝트
     * [거울 자동차 충돌 시뮬레이션](https://github.com/nestiank/opengl-mirror-car-accident) ![language-cpp][language-cpp] ![library-opengl][library-opengl]
   * 프로그래밍 언어 구현 프로젝트
