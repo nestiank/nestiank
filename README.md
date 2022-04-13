@@ -59,6 +59,7 @@
 
   * [부스트캠프 AI Tech: 노트 및 일지](https://github.com/nestiank/boostcamp) [![institution-boostcamp][boostcamp-image]][boostcamp-url]
   * [부스트캠프 AI Tech: 이미지 분류 대회](https://github.com/nestiank/boostcamp-image-classification) [![institution-boostcamp][boostcamp-image]][boostcamp-url] ![language-python][language-python]
+  * [부스트캠프 AI Tech: 물체 탐지 대회](https://github.com/nestiank/boostcamp-object-detection) [![institution-boostcamp][boostcamp-image]][boostcamp-url] ![language-python][language-python]
   * [컴퓨터 비전 논문 학습 기록](https://github.com/nestiank/cv-paper-study) ![project-urp][project-urp]
   * [Video Action Recognition with PyTorch](https://github.com/nestiank/action-recognition-cnn-bd-lstm) ![project-urp][project-urp] ![language-python][language-python]
 
