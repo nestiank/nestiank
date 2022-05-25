@@ -1,37 +1,34 @@
-### 자기소개
+### 김주영 (Juyoung Kim)
 
-  * **김주영 (Juyoung Kim)**
-  * **컴퓨터 비전**을 공부하고 있습니다.
-    * Framework: **PyTorch**
-  * **프론트엔드 개발**을 공부하고 있습니다.
-    * Framework: **React.js**
-  * [**보다 상세한 CV**](static/2022_표준이력서_김주영.pdf)
+  * **컴퓨터 비전, 데이터 엔지니어링, 프론트엔드 개발**을 공부하고 있습니다.
+  * Email: **nestiank@naver.com**
+  * 이력서: **[2022년 5월](static/2022_5월_표준이력서_김주영.pdf)**
 
-#### 활동
+### 활동
 
-  * 2022.01-현재 **부스트캠프 AI Tech**
-    * 컴퓨터 비전 트랙
-  * 2021.01-2021.03 **고려대학교 컴퓨터 비전 연구실**
+  * 2022.01-2022.06 **[부스트캠프 AI Tech](https://boostcamp.connect.or.kr)**
+    * 컴퓨터 비전 트랙 강의 수강, 대회 참가, 프로젝트 진행
+  * 2021.01-2021.03 **[고려대학교 컴퓨터 비전 연구실](https://cvlab.korea.ac.kr)**
     * Transformer를 이용한 Flow Field 예측 모델 연구 참여
-  * 2020.10-2021.01 **고려대학교 지능시스템 연구실**
+  * 2020.10-2021.01 **[고려대학교 지능시스템 연구실](https://singkru.github.io)**
     * BD-LSTM 기반 Video Action Recognition 논문 구현
-  * 2019.06-2019.07 **KAIST 몰입캠프**
-    * 안드로이드 앱 및 모바일/PC 게임 24/7 개발
+  * 2019.06-2019.07 **[KAIST 몰입캠프](https://www.madcamp.io)**
+    * 안드로이드 앱과 모바일 게임, PC 게임을 24/7 개발
   * 2019.03-2019.08 **고려대학교 블록체인학회 KUBL**
-  * 2018.02-2018.07 | 2019.08-현재 **고려대학교 게임개발 동아리 CAT&DOG**
+  * 2019.08-현재 **고려대학교 게임개발 동아리 CAT&DOG** <br>
+    2018.02-2018.07
   * 2017.03-2018.02 **고려대학교 웹개발 동아리 KWEB**
   * 2017.03-2018.10 **고려대학교 알고리즘 동아리 ALPS**
 
-#### 경험
+### 보유 기술
 
-  * 언어: **Python, C++, Unity/C#,** Android/Java
-  * 딥러닝: **PyTorch**
-  * OS: **Linux, Windows**
-  * 웹: **HTML, CSS, JavaScript, React.js,** node.js
-  * DB: mongoDB, postgreSQL
-  * 도구: **Git, VS Code, Slack, Notion,** VS
+  * 언어: Python, C++, Unity/C#
+  * 프레임워크: PyTorch
+  * OS: Linux, Windows
+  * 웹: HTML, CSS, JavaScript, React.js, node.js
+  * 도구: Git, VS Code, Slack, Notion
 
-### 프로젝트 레포지토리
+### 프로젝트 목록
 
 #### 교과 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 
