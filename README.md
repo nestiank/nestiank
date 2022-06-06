@@ -2,7 +2,7 @@
 
   * **컴퓨터 비전, 데이터 엔지니어링, 프론트엔드 개발**을 공부하고 있습니다.
   * Email: **nestiank@naver.com**
-  * 이력서: **[2022년 5월](static/2022_5월_표준이력서_김주영.pdf)**
+  * 이력서: **[2022년 6월](static/2022_6월_표준이력서_김주영.pdf)**
 
 ### 활동
 
@@ -66,7 +66,6 @@
 
   * [안드로이드 생활 어플리케이션 (Serverless)](https://github.com/nestiank/madcamp-android-serverless) ![language-java][language-java] ![platform-android][platform-android]
   * [안드로이드 생활 어플리케이션 (With Server)](https://github.com/nestiank/madcamp-android-server-sync) ![language-java][language-java] ![language-javascript][language-javascript] ![library-nodejs][library-nodejs] ![platform-android][platform-android] ![database-mongodb][database-mongodb]
-
 
 #### 게임 프로그래밍 프로젝트
 
