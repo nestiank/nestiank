@@ -54,7 +54,7 @@
 
 #### 컴퓨터 비전 프로젝트
 
-  * [부스트캠프 AI Tech: 노트 및 일지](https://github.com/nestiank/boostcamp) [![institution-boostcamp][boostcamp-image]][boostcamp-url]
+  * [부스트캠프 AI Tech: 노트 및 일지](https://github.com/nestiank/boostcamp-daily-notes) [![institution-boostcamp][boostcamp-image]][boostcamp-url]
   * [부스트캠프 AI Tech: 이미지 분류 대회](https://github.com/nestiank/boostcamp-image-classification) [![institution-boostcamp][boostcamp-image]][boostcamp-url] ![language-python][language-python]
   * [부스트캠프 AI Tech: 물체 탐지 대회](https://github.com/nestiank/boostcamp-object-detection) [![institution-boostcamp][boostcamp-image]][boostcamp-url] ![language-python][language-python]
   * [부스트캠프 AI Tech: 글자 탐지 대회](https://github.com/nestiank/boostcamp-data-annotation) [![institution-boostcamp][boostcamp-image]][boostcamp-url] ![language-python][language-python]
