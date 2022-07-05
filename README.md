@@ -2,7 +2,7 @@
 
   * **컴퓨터 비전, 데이터 엔지니어링, 프론트엔드 개발**을 공부하고 있습니다.
   * Email: **nestiank@naver.com**
-  * 이력서: **[2022년 6월](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nestiank/nestiank/main/static/2022_6%EC%9B%94_%ED%91%9C%EC%A4%80%EC%9D%B4%EB%A0%A5%EC%84%9C_%EA%B9%80%EC%A3%BC%EC%98%81.pdf)**
+  * 이력서 [**[PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nestiank/nestiank/main/static/resume.pdf)**]
 
 ### 활동
 
