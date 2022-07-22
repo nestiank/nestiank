@@ -6,8 +6,8 @@
 
 ### 활동
 
-  * 2022.01-2022.06 **[부스트캠프 AI Tech](https://boostcamp.connect.or.kr)**
-    * 컴퓨터 비전 트랙 강의 수강, 대회 참가, 프로젝트 진행
+  * 2022.01-2022.06 **[부스트캠프 AI Tech](https://boostcamp.connect.or.kr) 컴퓨터 비전 트랙**
+    * 강의 수강, 대회 참가, 프로젝트 진행
   * 2021.01-2021.03 **[고려대학교 컴퓨터 비전 연구실](https://cvlab.korea.ac.kr)**
     * Transformer를 이용한 Flow Field 예측 모델 연구 참여
   * 2020.10-2021.01 **[고려대학교 지능시스템 연구실](https://singkru.github.io)**
