@@ -1,6 +1,6 @@
 ### 김주영 (Juyoung Kim)
 
-  * **컴퓨터 비전, 데이터 엔지니어링, 프론트엔드 개발**을 공부하고 있습니다.
+  * **딥러닝과 여러 가지 도메인 지식**을 공부하며 동시에 활용하고 있습니다.
   * Email: **nestiank@naver.com**
   * 이력서 [**[PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nestiank/nestiank/main/static/resume.pdf)**]
 
@@ -19,14 +19,6 @@
     2018.02-2018.07
   * 2017.03-2018.02 **고려대학교 웹개발 동아리 KWEB**
   * 2017.03-2018.10 **고려대학교 알고리즘 동아리 ALPS**
-
-### 보유 기술
-
-  * 언어: Python, C++, Unity/C#
-  * 프레임워크: PyTorch
-  * OS: Linux, Windows
-  * 웹: HTML, CSS, JavaScript, React.js, node.js
-  * 도구: Git, VS Code, Slack, Notion
 
 ### 프로젝트 목록
 
