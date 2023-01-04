@@ -4,6 +4,12 @@
   * Email: **nestiank@naver.com**
   * 이력서 [**[PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nestiank/nestiank/main/static/resume.pdf)**]
 
+### 경력
+
+  * 2022.09-2023/02 **TBA (in Medical AI)** <br>
+    인턴 · 연구원 <br>
+    서울특별시 강남구
+
 ### 활동
 
   * 2022.01-2022.06 **[부스트캠프 AI Tech](https://boostcamp.connect.or.kr) 컴퓨터 비전 트랙**
@@ -15,7 +21,7 @@
   * 2019.06-2019.07 **[KAIST 몰입캠프](https://www.madcamp.io)**
     * 안드로이드 앱과 모바일 게임, PC 게임을 24/7 개발
   * 2019.03-2019.08 **고려대학교 블록체인학회 KUBL**
-  * 2019.08-현재 **고려대학교 게임개발 동아리 CAT&DOG** <br>
+  * 2019.08-2022.08 **고려대학교 게임개발 동아리 CAT&DOG** <br>
     2018.02-2018.07
   * 2017.03-2018.02 **고려대학교 웹개발 동아리 KWEB**
   * 2017.03-2018.10 **고려대학교 알고리즘 동아리 ALPS**
