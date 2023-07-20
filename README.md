@@ -1,6 +1,5 @@
 ### 김주영 (Juyoung Kim)
 
-  * **딥러닝과 여러 가지 도메인 지식**을 공부하며 동시에 활용하고 있습니다.
   * Email: **nestiank@naver.com**
   * 이력서 [**[PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nestiank/nestiank/main/static/resume.pdf)**]
 
