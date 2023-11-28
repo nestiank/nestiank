@@ -3,6 +3,8 @@
   * Email: **nestiank@naver.com**
   * 이력서 [**[PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nestiank/nestiank/main/static/resume.pdf)**]
 
+[![juyokim's 42 stats](https://badge.mediaplus.ma/darkblue/juyokim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ### 경력
 
   * 2023.04-2023.06 **[주식회사 히츠](https://hits.ai)** <br>
