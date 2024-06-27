@@ -3,6 +3,8 @@
   * Email: **nestiank@naver.com**
   * 이력서 [**[PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nestiank/nestiank/main/static/resume.pdf)**]
 
+[![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nestiank)](https://solved.ac/profile/nestiank)
+
 [![juyokim's 42 stats](https://badge.mediaplus.ma/darkblue/juyokim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### 경력
