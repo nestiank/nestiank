@@ -38,7 +38,7 @@
 
 #### 교과 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 
-> 모든 Academic Integrity 관련 문제는 본인의 책임입니다.
+> Academic Integrity 문제로 코드를 비공개합니다.
 
   * 콘솔 프로그래밍 프로젝트
     * [콘솔 주사위 던지기 게임](https://github.com/nestiank/console-dice-game) ![language-c][language-c]
