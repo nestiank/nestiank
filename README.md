@@ -5,8 +5,6 @@
 
 [![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nestiank)](https://solved.ac/profile/nestiank)
 
-[![juyokim's 42 stats](https://badge.mediaplus.ma/darkblue/juyokim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
 ### 경력
 
   * 2023.04-2023.06 **[주식회사 히츠](https://hits.ai)** <br>
@@ -18,7 +16,7 @@
 
 ### 활동
 
-  * 2023.10-현재 **[42 서울](https://42seoul.kr)**
+  * 2023.10-2024.03 **[42 서울](https://42seoul.kr)**
     * CS 지식 학습, 프론트엔드 프로젝트 진행
   * 2022.01-2022.06 **[부스트캠프 AI Tech](https://boostcamp.connect.or.kr) 컴퓨터 비전 트랙**
     * 강의 수강, 대회 참가, 프로젝트 진행
