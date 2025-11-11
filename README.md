@@ -1,36 +1,56 @@
 ### 김주영 (Juyoung Kim)
 
   * Email: **nestiank@naver.com**
-  * 이력서 [**[PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nestiank/nestiank/main/static/resume.pdf)**]
+  * LinkedIn: **[nestiank](https://www.linkedin.com/in/nestiank)**
+  * 이력서: [**[PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nestiank/nestiank/main/static/resume.pdf)**]
+  * 오픈소스 기여 이력: [**[PR List@GitHub](https://github.com/pulls?q=is%3Apr+author%3Anestiank)**]
 
 [![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nestiank)](https://solved.ac/profile/nestiank)
 
 ### 경력
 
-  * 2023.04-2023.06 **[주식회사 히츠](https://hits.ai)** <br>
-    연구원 <br>
+  * **[주식회사 히츠](https://hits.ai)**<br>
+    연구원 2023/04-2023/06<br>
+    인턴 · 연구원 2022/09-2023/02<br>
     AI 신약개발 · 서울특별시 강남구
-  * 2022.09-2023.02 **[주식회사 히츠](https://hits.ai)** <br>
-    인턴 · 연구원 <br>
-    AI 신약개발 · 서울특별시 강남구
+
+### 집중 실습
+
+  * **[42 서울](https://42seoul.kr) 10기**<br>
+    이노베이션아카데미<br>
+    La Piscine: 2023/08-2023/09<br>
+    본 과정: 2023/10-2024/03<br>
+    CS 지식 학습
+  * **[부스트캠프 AI Tech](https://boostcamp.connect.or.kr) 3기**<br>
+    네이버커넥트<br>
+    수료 2022/01-2022/06<br>
+    컴퓨터 비전 트랙 강의 수강, 대회 참가, 프로젝트 진행
+  * **[몰입캠프](https://www.madcamp.io) 8기**<br>
+    KAIST 전산학부<br>
+    수료 2019/06-2019/07<br>
+    안드로이드 앱과 모바일 게임, PC 게임을 24/7 개발
+
+### 연구
+
+  * **고려대학교 컴퓨터 비전 연구실**<br>
+    학부연구생 2021/01-2021/03<br>
+    Transformer를 이용한 Flow Field 예측 모델 연구 참여
+  * **[고려대학교 지능시스템 연구실](https://singkru.github.io)**<br>
+    학부연구생 2020/10-2021/01<br>
+    BD-LSTM 기반 Video Action Recognition 논문 구현
 
 ### 활동
 
-  * 2023.10-2024.03 **[42 서울](https://42seoul.kr) 10기**(이노베이션아카데미)
-    * CS 지식 학습
-  * 2022.01-2022.06 **[부스트캠프 AI Tech](https://boostcamp.connect.or.kr) 3기**(네이버커넥트)
-    * 컴퓨터 비전 트랙 강의 수강, 대회 참가, 프로젝트 진행
-  * 2021.01-2021.03 **고려대학교 컴퓨터 비전 연구실 학부연구생**
-    * Transformer를 이용한 Flow Field 예측 모델 연구 참여
-  * 2020.10-2021.01 **[고려대학교 지능시스템 연구실](https://singkru.github.io) 학부연구생**
-    * BD-LSTM 기반 Video Action Recognition 논문 구현
-  * 2019.06-2019.07 **[몰입캠프](https://www.madcamp.io) 8기**(KAIST 전산학부)
-    * 안드로이드 앱과 모바일 게임, PC 게임을 24/7 개발
-  * 2019.03-2019.08 **고려대학교 블록체인학회 KUBL**
-  * 2019.08-2022.08 **고려대학교 게임개발 동아리 CAT&DOG** <br>
-    2018.02-2018.07
-  * 2017.03-2018.02 **고려대학교 웹개발 동아리 KWEB**
-  * 2017.03-2018.10 **고려대학교 알고리즘 동아리 ALPS**
+  * **고려대학교 블록체인학회 KUBL**<br>
+    회원 2019/03-2019/08
+  * **고려대학교 게임개발 동아리 CAT&DOG**<br>
+    정회원 2019/08-2022/08<br>
+    정회원 2018/02-2018/07
+  * **고려대학교 웹개발 동아리 KWEB**<br>
+    정회원 2018/01-2018/02<br>
+    준회원 2017/03-2018/01
+  * **고려대학교 알고리즘 동아리 ALPS**<br>
+    회원 2017/03-2018/10
 
 ### 프로젝트 목록
 
