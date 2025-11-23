@@ -1,7 +1,6 @@
 ### 김주영 (Juyoung Kim)
 
   * Email: **nestiank@naver.com**
-  * LinkedIn: **[nestiank](https://www.linkedin.com/in/nestiank)**
   * 이력서: [**[PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nestiank/nestiank/main/static/resume.pdf)**]
   * 오픈소스 기여 이력: [**[PR List@GitHub](https://github.com/pulls?q=is%3Apr+author%3Anestiank)**]
 
