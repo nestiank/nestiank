@@ -15,7 +15,7 @@
 
 ### 교육
 
-  * **TBD대학교 법학전문대학원 18기**<br>
+  * **[고려대학교 법학전문대학원](https://lawschool.korea.ac.kr) 18기**<br>
     전문석사과정 2026/03-2029/02<br>
     **[이수 과목 및 성적](https://transcript.nestian.kr/graduate)** TBD
   * **[고려대학교 컴퓨터학과](https://cs.korea.ac.kr)**<br>
