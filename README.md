@@ -1,7 +1,7 @@
-### 김주영 (Juyoung Kim)
+### 김주영 Juyoung Kim (nestiank)
 
   * Email: **nestiank@naver.com**
-  * 이력서: [**[PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nestiank/nestiank/main/static/resume.pdf)**]
+  * 이력서: [**[PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://static.nestian.kr/documents/resume/tech.pdf)**]
   * 오픈소스 기여 이력: [**[PR List@GitHub](https://github.com/pulls?q=is%3Apr+author%3Anestiank)**]
 
 [![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nestiank)](https://solved.ac/profile/nestiank)
@@ -10,7 +10,7 @@
 
   * **[주식회사 히츠](https://hits.ai)**<br>
     연구원 2023/04-2023/06<br>
-    인턴 · 연구원 2022/09-2023/02<br>
+    연구원 2022/09-2023/02<br>
     AI 신약개발 · 서울특별시 강남구
 
 ### 교육
@@ -35,8 +35,8 @@
 
   * **[42 서울](https://42seoul.kr) 10기**<br>
     이노베이션아카데미<br>
-    La Piscine: 2023/08-2023/09<br>
-    본 과정: 2023/10-2024/03<br>
+    La Piscine 2023/08-2023/09<br>
+    본과정 2023/10-2024/03<br>
     CS 지식 학습
   * **[부스트캠프 AI Tech](https://boostcamp.connect.or.kr) 3기**<br>
     네이버커넥트<br>
@@ -45,7 +45,7 @@
   * **[몰입캠프](https://www.madcamp.io) 8기**<br>
     KAIST 전산학부<br>
     수료 2019/06-2019/07<br>
-    안드로이드 앱과 모바일 게임, PC 게임을 24/7 개발
+    안드로이드 앱과 모바일, PC 게임을 24/7 개발
 
 ### 인증
 
@@ -62,7 +62,7 @@
 
 #### 교과 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 
-> Academic Integrity 문제로 코드를 비공개합니다.
+> 과제물 표절 예방 요구로 코드를 비공개함
 
   * 콘솔 프로그래밍 프로젝트
     * [콘솔 주사위 던지기 게임](https://github.com/nestiank/console-dice-game) ![language-c][language-c]
