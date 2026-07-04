@@ -21,10 +21,10 @@
 
   * **[고려대학교 법학전문대학원](https://lawschool.korea.ac.kr) 18기**<br>
     전문석사과정 2026/03-2029/02<br>
-    **[이수 과목 및 성적](https://transcript.nestian.kr/graduate)** TBD
+    **[이수 과목 및 성적](https://transcript.nestian.kr/graduate)** 3.23/4.3 (제1학기까지)
   * **[고려대학교 컴퓨터학과](https://cs.korea.ac.kr)**<br>
     학사과정 2017/03-2023/02<br>
-    **[이수 과목 및 성적](https://transcript.nestian.kr/undergraduate)** 전체 3.75/4.50 · 전공 3.70/4.50
+    **[이수 과목 및 성적](https://transcript.nestian.kr/undergraduate)** 3.75/4.5
 
 ### 연구
 
