@@ -66,7 +66,7 @@
 
 #### 교과 프로젝트 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 
-> 과제물 표절 예방 요구로 코드를 비공개함
+> 과제물 표절 예방 요구에 따라 코드를 비공개함
 
   * 콘솔 프로그래밍 프로젝트
     * [콘솔 주사위 던지기 게임](https://github.com/nestiank/console-dice-game) ![language-c][language-c]
